@@ -23,19 +23,19 @@
 ### 1️⃣ Install Package
 
 ```bash
-npm install -g autoft-bot-wildcard
+npm install -g wildcadmd-bot
 ```
 
 ### 2️⃣ Run Interactive Setup
 
 ```bash
-autoft-bot-wildcard
+wildcadmd-bot
 ```
 
 ### 3️⃣ Start Your Bot
 
 ```bash
-cd autoft-bot-wildcard
+cd wildcadmd-bot
 npm start
 ```
 
@@ -60,10 +60,10 @@ npm start
 npm install -g pm2
 
 # Navigate to your bot directory
-cd autoft-bot-wildcard
+cd wildcadmd-bot
 
 # Start bot with PM2
-pm2 start index.js --name "autoft-bot-wildcard"
+pm2 start index.js --name "wildcadmd-bot"
 
 # Save PM2 configuration
 pm2 save
@@ -79,16 +79,16 @@ pm2 status
 
 ```bash
 # Monitor logs
-pm2 logs autoft-bot-wildcard
+pm2 logs wildcadmd-bot
 
 # Restart bot
-pm2 restart autoft-bot-wildcard
+pm2 restart wildcadmd-bot
 
 # Stop bot
-pm2 stop autoft-bot-wildcard
+pm2 stop wildcadmd-bot
 
 # Delete from PM2
-pm2 delete autoft-bot-wildcard
+pm2 delete wildcadmd-bot
 
 # Monitor all processes
 pm2 monit
