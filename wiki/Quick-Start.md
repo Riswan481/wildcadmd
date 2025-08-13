@@ -1,25 +1,26 @@
 # 🚀 Quick Start Guide
 
-Get your AutoFT Bot Wildcard up and running in under 5 minutes!
+# 🚀 Quick Start Guide
+
+Get your WildcadMD Bot up and running in under 5 minutes!
 
 ## ⚡ 1-Minute Setup
 
 ### Step 1: Install the Bot
-
 ```bash
-npm install -g autoft-bot-wildcard
+npm install -g wildcadmd-bot
 ```
 
 ### Step 2: Run Setup Wizard
 
 ```bash
-autoft-bot-wildcard
+wildcadmd-bot
 ```
 
 ### Step 3: Start Your Bot
 
 ```bash
-cd autoft-bot-wildcard
+cd wildcadmd-bot
 npm start
 ```
 
@@ -237,7 +238,7 @@ pm2 logs autoft-bot-wildcard
 1. **📖 Read [Commands Reference](Commands.md)** - Learn all available commands
 2. **🔧 Check [Configuration Guide](Configuration.md)** - Advanced settings
 3. **📢 Join [Updates Channel](https://t.me/AutoFtFile)** - Get latest news and updates
-4. **⭐ Star the [Repository](https://github.com/AutoFTbot/Wildcard-Bot)** - Support the project
+4. **⭐ Star the [Repository](https://github.com/Riswan481/wildcadmd)** - Support the project
 
 ---
 
@@ -247,8 +248,8 @@ pm2 logs autoft-bot-wildcard
 - **🔧 Issues**: [Troubleshooting Guide](Troubleshooting.md)
 - **📢 Updates**: [Channel](https://t.me/AutoFtFile)
 - **👨‍💻 Developer**: [Contact](https://t.me/AutoFtBot69)
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/AutoFTbot/Wildcard-Bot/issues)
+- **🐛 Bug Reports**: [GitHub Issues](https://github.com/Riswan481/wildcadmd/issues)
 
 ---
 
-**🚀 Ready to manage wildcard domains like a pro!** 
+**🚀 Ready to manage wildcard domains like a pro!**
